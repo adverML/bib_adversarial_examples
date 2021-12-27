@@ -1,3 +1,7 @@
+![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?color=red&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/tao-bai/attack-and-defense-methods.svg?style=plastic)
+[![Awesome](https://awesome.re/badge.svg?style=flat-square)](https://awesome.re)
+
 # bib_adversarial_examples
 Literature collection of adversarial examples.
 
