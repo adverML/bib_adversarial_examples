@@ -6,7 +6,11 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 # Papers
 
 ## Surveys
-1. `2021` [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
+2022
+ - [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
+
+2021
+ - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
 
 ## Attack
