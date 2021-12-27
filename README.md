@@ -19,6 +19,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 ## Defenses
 
 2021
+ - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection)
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
 
 
