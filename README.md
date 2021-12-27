@@ -19,7 +19,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 ## Defenses
 
 2021
-1. `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
+ - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
 
 
 
