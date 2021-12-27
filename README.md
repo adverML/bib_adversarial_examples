@@ -15,12 +15,16 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 ## Attack
 
+2016
+ - `CVPR` [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 
 ## Defenses
 
 2021
  - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection)
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
+
+
 
 
 
