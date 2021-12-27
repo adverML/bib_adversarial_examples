@@ -17,7 +17,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
 
-## Attack
+## Attacks
 
 2016
  - `CVPR` [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
@@ -29,7 +29,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
 
 
-
+## Others
 
 
 
