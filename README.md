@@ -28,6 +28,8 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection)
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
 
+2019
+ - `CVPR` [Detection based Defense against Adversarial Examples from the Steganalysis Point of View](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Detection_Based_Defense_Against_Adversarial_Examples_From_the_Steganalysis_Point_CVPR_2019_paper.pdf)
 
 ## Others
 
