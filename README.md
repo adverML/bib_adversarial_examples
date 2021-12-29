@@ -11,11 +11,13 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 ## Surveys
 2022
- - [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
+ - `IEEE` [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
 
 2021
  - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
+2018
+ - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf), [github](https://github.com/chbrian/awesome-adversarial-examples-dl)
 
 ## Attacks
 
