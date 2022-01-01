@@ -50,6 +50,8 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - https://github.com/MadryLab/constructed-datasets 
 
 
+## Others
+- https://simons.berkeley.edu/sites/default/files/docs/11887/nn-simons-part2.pdf
 
 
 ## Links
