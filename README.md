@@ -32,6 +32,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2019
  - `CVPR` [Detection based Defense against Adversarial Examples from the Steganalysis Point of View](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Detection_Based_Defense_Against_Adversarial_Examples_From_the_Steganalysis_Point_CVPR_2019_paper.pdf)
+ - `NeurIPS`  [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
 
 
 ## Adversarial Training
