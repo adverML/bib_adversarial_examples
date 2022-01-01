@@ -44,7 +44,9 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 2022
  - `Preprint` [DAAIN: Detection of Anomalous and Adversarial Input using Normalizing Flows](https://github.com/merantix/mxlabs-daain)
 
-## Others
+## Datasets
+
+ - https://github.com/MadryLab/constructed-datasets 
 
 
 
