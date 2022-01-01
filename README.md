@@ -39,6 +39,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2021
  - `NeurIPS` [Do Wider Neural Networks Really Help Adversarial Robustness?](https://openreview.net/forum?id=wxjtOI_8jO)
+ - `ICML` [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
 
 ## Detection in Image Segmentation
 
