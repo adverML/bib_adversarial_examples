@@ -45,6 +45,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2022
  - `Preprint` [DAAIN: Detection of Anomalous and Adversarial Input using Normalizing Flows](https://github.com/merantix/mxlabs-daain)
+ - `Preprint` [Adversarial Examples on Segmentation Models Can be Easy to Transfer](https://arxiv.org/pdf/2111.11368.pdf)
 
 ## Datasets
 
