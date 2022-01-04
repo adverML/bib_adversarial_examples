@@ -18,6 +18,8 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2018
  - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf), [github](https://github.com/chbrian/awesome-adversarial-examples-dl)
+ - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://github.com/anishathalye/obfuscated-gradients)
+
 
 ## Attacks
 
