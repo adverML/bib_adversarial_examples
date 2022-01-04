@@ -14,6 +14,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `IEEE` [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
 
 2021
+ - `AAAI` + Code [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
  - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
 2018
