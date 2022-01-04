@@ -14,7 +14,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `IEEE` [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
 
 2021
- - `AAAI` + Code [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
+ - `Journal` [https://paperswithcode.com/paper/adversarial-attacks-and-defenses-on-graphs-a](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)
  - [Countering Malicious DeepFakes: Survey, Battleground, and Horizon](https://arxiv.org/pdf/2103.00218.pdf)
 
 2018
@@ -62,12 +62,14 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 - https://simons.berkeley.edu/sites/default/files/docs/11887/nn-simons-part2.pdf
 
 
-
+## Libs
+ - `Code` [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
+ - [Innsight](https://bips-hb.github.io/innsight/)
+ - [RobustBench](https://robustbench.github.io/)
 
 
 ## Links
 
 - [Adversarial Machine Learning Reading List](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html) by [Nicholas Carlini](https://nicholas.carlini.com)
 - [A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html) by [Nicholas Carlini](https://nicholas.carlini.com) **Stay Tuned** 
-- [Innsight](https://bips-hb.github.io/innsight/)
-- [RobustBench](https://robustbench.github.io/)
+
