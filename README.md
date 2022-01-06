@@ -32,6 +32,13 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 2021
  - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection)
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
+ - [Detecting Adversarial Examples with Bayesian Neural Network](https://arxiv.org/abs/2105.08620)
+ - `CVPR` [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LiBRe_A_Practical_Bayesian_Approach_to_Adversarial_Detection_CVPR_2021_paper.pdf)
+
+2020
+ - [Adversarial Detection and Correction by Matching Prediction Distributions](https://arxiv.org/pdf/2002.09364.pdf)
+
+
 
 2019
  - `CVPR` [Detection based Defense against Adversarial Examples from the Steganalysis Point of View](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Detection_Based_Defense_Against_Adversarial_Examples_From_the_Steganalysis_Point_CVPR_2019_paper.pdf)
@@ -42,7 +49,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2021
  - `NeurIPS` [Do Wider Neural Networks Really Help Adversarial Robustness?](https://openreview.net/forum?id=wxjtOI_8jO)
- - `ICML` [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
+ - `ICML`    [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
 
 ## Detection in Image Segmentation
 
