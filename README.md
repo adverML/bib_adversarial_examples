@@ -38,6 +38,9 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 2020
  - [Adversarial Detection and Correction by Matching Prediction Distributions](https://arxiv.org/pdf/2002.09364.pdf)
 
+2019
+ - `ICLR` [AD V-BNN: IMPROVED ADVERSARIAL DEFENSE THROUGH ROBUST BAYESIAN NEURAL NETWORK](https://openreview.net/pdf?id=rk4Qso0cKm)
+
 
 
 2019
