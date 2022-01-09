@@ -70,6 +70,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 2021
 - `CVPR` [Natural Adversarial Examples](https://arxiv.org/abs/1907.07174)
 - https://simons.berkeley.edu/sites/default/files/docs/11887/nn-simons-part2.pdf
+- [FFT slides](https://courses.engr.illinois.edu/cs445/fa2020/lectures/Lecture%2003%20-%20Thinking%20in%20Frequency%20-%20Online.pdf)
 
 
 ## Libs
