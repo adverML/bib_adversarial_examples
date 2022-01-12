@@ -60,6 +60,9 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `Preprint` [DAAIN: Detection of Anomalous and Adversarial Input using Normalizing Flows](https://github.com/merantix/mxlabs-daain)
  - `Preprint` [Adversarial Examples on Segmentation Models Can be Easy to Transfer](https://arxiv.org/pdf/2111.11368.pdf)
 
+2018
+ - `CVPR` [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://ora.ox.ac.uk/objects/uuid:d261589f-2717-41ee-9fa4-17bc831229cc)
+
 ## Datasets
 
  - https://github.com/MadryLab/constructed-datasets 
