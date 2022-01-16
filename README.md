@@ -83,6 +83,7 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 2019
  - `NeurIPS` [A Fourier Perspective on Model Robustness in Computer Vision](https://proceedings.neurips.cc/paper/2019/file/b05b57f6add810d3b7490866d74c0053-Paper.pdf)
 
+ - [Understanding Benford’s law and its vulnerability in image forensics](http://www.cs.albany.edu/~patrey/ICSI533-433/project/Implementation_sample_report.pdf)
 
 ## Libs
  - [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
