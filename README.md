@@ -78,6 +78,9 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 - [FFT slides](https://courses.engr.illinois.edu/cs445/fa2020/lectures/Lecture%2003%20-%20Thinking%20in%20Frequency%20-%20Online.pdf)
 - `Preprint` [Closer Look at the Transferability of Adversarial Examples: How They Fool Different Models Differently](https://www.researchgate.net/publication/357417434_Closer_Look_at_the_Transferability_of_Adversarial_Examples_How_They_Fool_Different_Models_Differently)
 
+2019
+ - [A Fourier Perspective on Model Robustness in Computer Vision](https://proceedings.neurips.cc/paper/2019/file/b05b57f6add810d3b7490866d74c0053-Paper.pdf)
+
 
 ## Libs
  - [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
