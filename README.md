@@ -36,6 +36,8 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
  - [Detecting Adversarial Examples with Bayesian Neural Network](https://arxiv.org/abs/2105.08620)
  - `CVPR` + [code](https://github.com/thudzj/ScalableBDL) [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LiBRe_A_Practical_Bayesian_Approach_to_Adversarial_Detection_CVPR_2021_paper.pdf)
+ - `Thesis` [Defense Methods for Convolutional Neural Networks Against Adversarial
+Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-D.pdf?sequence=-1)
 
 2020
  - [Adversarial Detection and Correction by Matching Prediction Distributions](https://arxiv.org/pdf/2002.09364.pdf)
