@@ -79,7 +79,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 - `Preprint` [Closer Look at the Transferability of Adversarial Examples: How They Fool Different Models Differently](https://www.researchgate.net/publication/357417434_Closer_Look_at_the_Transferability_of_Adversarial_Examples_How_They_Fool_Different_Models_Differently)
 
 2019
- - [A Fourier Perspective on Model Robustness in Computer Vision](https://proceedings.neurips.cc/paper/2019/file/b05b57f6add810d3b7490866d74c0053-Paper.pdf)
+ - `NeurIPS` [A Fourier Perspective on Model Robustness in Computer Vision](https://proceedings.neurips.cc/paper/2019/file/b05b57f6add810d3b7490866d74c0053-Paper.pdf)
 
 
 ## Libs
