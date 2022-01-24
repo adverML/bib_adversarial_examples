@@ -23,7 +23,7 @@
 ## Libs
  - [RobustBench](https://robustbench.github.io/)
  - [Foolbox](https://github.com/bethgelab/foolbox)
- - [Adversarial Training](https://github.com/locuslab/fast_adversarial)
+ - [Basic Adversarial Training](https://github.com/locuslab/fast_adversarial) (FGSM, Free, PGD)
 
 
 
