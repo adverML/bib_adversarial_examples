@@ -7,20 +7,14 @@
 - [Square Attack: a query-efficient black-box adversarial attack via random search](https://arxiv.org/pdf/1912.00049.pdf)
 
 
-## Defenses
-
-2021
- -
 
 ## Adversarial Training
+- [Improving Robustness with Image Filtering](https://arxiv.org/pdf/2112.11235.pdf)
 
-2021
- - 
+## Defenses
+
 
 ## Others
-
-2022
-
 
 ## Libs
  - [RobustBench](https://robustbench.github.io/)
