@@ -9,10 +9,11 @@
 
 
 ## Adversarial Training
-- [Improving Robustness with Image Filtering](https://arxiv.org/pdf/2112.11235.pdf)
+
 
 ## Defenses
-
+- [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines!](https://arxiv.org/pdf/2112.09219.pdf)
+- [Improving Robustness with Image Filtering](https://arxiv.org/pdf/2112.11235.pdf)
 
 ## Others
 
