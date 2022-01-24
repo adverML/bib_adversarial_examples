@@ -4,6 +4,7 @@
 ## Surveys
 
 ## Attacks
+- [Square Attack: a query-efficient black-box adversarial attack via random search](https://arxiv.org/pdf/1912.00049.pdf)
 
 
 ## Defenses
