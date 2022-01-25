@@ -37,7 +37,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 ## Defenses
 
 2021
- - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection) + [talk](https://slideslive.com/38958657/a-general-framework-for-detecting-anomalous-inputs-to-dnn-classifiers?ref=account-folder-86375-folders)
+ - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection) + [talk](https://slideslive.com/38958657/a-general-framework-for-detecting-anomalous-inputs-to-dnn-classifiers?ref=account-folder-86375-folders) + [slides](https://icml.cc/media/icml-2021/Slides/10151.pdf)
  - `ICME` [DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929)
  - [Detecting Adversarial Examples with Bayesian Neural Network](https://arxiv.org/abs/2105.08620)
  - `CVPR` + [code](https://github.com/thudzj/ScalableBDL) [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LiBRe_A_Practical_Bayesian_Approach_to_Adversarial_Detection_CVPR_2021_paper.pdf)
