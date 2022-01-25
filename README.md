@@ -12,6 +12,7 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 ## Surveys
 2022
  - `IEEE` [ANOMALOUS INSTANCE DETECTION IN DEEP LEARNING: A SURVEY](https://www.osti.gov/biblio/1631092)
+ - `IEEE` [Anomalous Example Detection in Deep Learning: A Survey](https://www.osti.gov/biblio/1631092)
 
 2021
  - `Journal` [https://paperswithcode.com/paper/adversarial-attacks-and-defenses-on-graphs-a](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)
