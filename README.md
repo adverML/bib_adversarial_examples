@@ -50,8 +50,13 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 2019
  - `ICLR` [AD V-BNN: IMPROVED ADVERSARIAL DEFENSE THROUGH ROBUST BAYESIAN NEURAL NETWORK](https://openreview.net/pdf?id=rk4Qso0cKm)
 
+2018
+ - `NeurIPS` [Code + Trust Score](https://github.com/google/TrustScore)
+
 2017
  - `ICLR` [ON DETECTING ADVERSARIAL PERTURBATIONS](https://arxiv.org/pdf/1702.04267.pdf)
+
+
 
 
 
