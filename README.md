@@ -74,8 +74,12 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 ## Detection in Image Segmentation
 
 2022
+
  - `Preprint` [DAAIN: Detection of Anomalous and Adversarial Input using Normalizing Flows](https://github.com/merantix/mxlabs-daain)
  - `Preprint` [Adversarial Examples on Segmentation Models Can be Easy to Transfer](https://arxiv.org/pdf/2111.11368.pdf)
+
+2021
+ - `IJCNN` [Studying the Transferability of Non-Targeted Adversarial Attacks](https://ieeexplore.ieee.org/document/9534138)
 
 2018
  - `CVPR` [On the Robustness of Semantic Segmentation Models to Adversarial Attacks](https://ora.ox.ac.uk/objects/uuid:d261589f-2717-41ee-9fa4-17bc831229cc)
