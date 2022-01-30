@@ -31,7 +31,6 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 ## Attacks
 
-
 2021
  - `Preprint` [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570#:~:text=A%20membership%20inference%20attack%20allows,in%20the%20model's%20training%20dataset.)
 
@@ -74,6 +73,7 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 2021
  - `NeurIPS` [Do Wider Neural Networks Really Help Adversarial Robustness?](https://openreview.net/forum?id=wxjtOI_8jO)
  - `ICML`    [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
+ - `ICML` [Adversarially Trained Neural Policies in the Fourier Domain](https://openreview.net/pdf?id=bXrbdIoYEj)
 
 ## Detection in Image Segmentation
 
