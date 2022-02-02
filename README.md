@@ -51,6 +51,7 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
  - [Adversarial Detection and Correction by Matching Prediction Distributions](https://arxiv.org/pdf/2002.09364.pdf)
 
 2019
+ - `ICML` [The odds ard odd](https://qdata.github.io/deep2Read/deep2reproduce/2019Fall/T23_Stein_Merielms7nk_Detecting_Adversarial_Examples.pdf)
  - `ICLR` [AD V-BNN: IMPROVED ADVERSARIAL DEFENSE THROUGH ROBUST BAYESIAN NEURAL NETWORK](https://openreview.net/pdf?id=rk4Qso0cKm)
 
 2018
