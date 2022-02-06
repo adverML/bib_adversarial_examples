@@ -34,6 +34,9 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 2021
  - `Preprint` [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570#:~:text=A%20membership%20inference%20attack%20allows,in%20the%20model's%20training%20dataset.)
 
+2017
+ - `Reject` [Exploring the Space of Black-box Attacks on Deep Neural Networks ](https://openreview.net/forum?id=SkF2D7g0b)
+
 2016
  - `CVPR` [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 
