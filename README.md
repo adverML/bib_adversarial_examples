@@ -98,6 +98,7 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 
 2022
  - `Preprint` [Evaluation of Neural Networks defenses and attacks using NDCG and reciprocal rank metrics](https://arxiv.org/pdf/2201.05071.pdf)
+ - `Preprint` [Performance Evaluation of Adversarial Attacks: Discrepancies and Solutions](https://arxiv.org/pdf/2104.11103.pdf)
 
 
 2021
