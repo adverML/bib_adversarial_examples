@@ -103,6 +103,9 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
  - `Preprint` [Evaluation of Neural Networks defenses and attacks using NDCG and reciprocal rank metrics](https://arxiv.org/pdf/2201.05071.pdf)
  - `Preprint` [Performance Evaluation of Adversarial Attacks: Discrepancies and Solutions](https://arxiv.org/pdf/2104.11103.pdf)
 
+2020
+ - [Trust but Verify: Assigning Prediction Credibility by Counterfactual Constrained Optimization](https://arxiv.org/pdf/2011.12344.pdf)
+
 
 2021
 - `CVPR` [Natural Adversarial Examples](https://arxiv.org/abs/1907.07174)
