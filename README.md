@@ -33,6 +33,8 @@ As continuation from this [collection](https://github.com/tao-bai/attack-and-def
 
 2021
  - `Preprint` [Membership Inference Attacks From First Principles](https://arxiv.org/abs/2112.03570#:~:text=A%20membership%20inference%20attack%20allows,in%20the%20model's%20training%20dataset.)
+ - `Arxiv` [ASK: Adversarial Soft k-Nearest Neighbor Attack
+and Defense](https://arxiv.org/pdf/2106.14300.pdf)  + [Code](https://github.com/adverML/ASK)
 
 2017
  - `Reject` [Exploring the Space of Black-box Attacks on Deep Neural Networks ](https://openreview.net/forum?id=SkF2D7g0b)
@@ -79,10 +81,10 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
  - `ICML`    [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
  - `ICML` [Adversarially Trained Neural Policies in the Fourier Domain](https://openreview.net/pdf?id=bXrbdIoYEj)
 
+
 ## Detection in Image Segmentation
 
 2022
-
  - `Preprint` [DAAIN: Detection of Anomalous and Adversarial Input using Normalizing Flows](https://github.com/merantix/mxlabs-daain)
  - `Preprint` [Adversarial Examples on Segmentation Models Can be Easy to Transfer](https://arxiv.org/pdf/2111.11368.pdf)
 
