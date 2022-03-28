@@ -42,7 +42,7 @@ and Defense](https://arxiv.org/pdf/2106.14300.pdf)  + [Code](https://github.com/
 2016
  - `CVPR` [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599)
 
-## Defenses
+## Detection
 
 2021
  - `ICML` + code [A General Framework For Detecting Anomalous Inputs to DNN Classifiers](https://github.com/jayaram-r/adversarial-detection) + [talk](https://slideslive.com/38958657/a-general-framework-for-detecting-anomalous-inputs-to-dnn-classifiers?ref=account-folder-86375-folders) + [slides](https://icml.cc/media/icml-2021/Slides/10151.pdf)
@@ -64,6 +64,7 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
 
 2017
  - `ICLR` [ON DETECTING ADVERSARIAL PERTURBATIONS](https://arxiv.org/pdf/1702.04267.pdf)
+ - `arXiv` [Detecting Adversarial Samples from Artifacts](https://arxiv.org/pdf/1703.00410.pdf) + [code](https://github.com/Hyeongmin-Cho/Detecting-Adversarial-Samples-from-Artifacts-pytorch) + [original code](https://github.com/rfeinman/detecting-adversarial-samples)
 
 
 2019
