@@ -66,9 +66,6 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
  - `ICLR` [ON DETECTING ADVERSARIAL PERTURBATIONS](https://arxiv.org/pdf/1702.04267.pdf)
 
 
-
-
-
 2019
  - `CVPR` [Detection based Defense against Adversarial Examples from the Steganalysis Point of View](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Detection_Based_Defense_Against_Adversarial_Examples_From_the_Steganalysis_Point_CVPR_2019_paper.pdf)
  - `NeurIPS`  [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
@@ -81,6 +78,8 @@ Attacks](https://repositorio.ufsc.br/bitstream/handle/123456789/226929/PEAS0369-
  - `ICML`    [Meta Adversarial Training against Universal Patches](https://openreview.net/forum?id=sePThSlRHr)
  - `ICML` [Adversarially Trained Neural Policies in the Fourier Domain](https://openreview.net/pdf?id=bXrbdIoYEj)
 
+2019
+ - `ICLR` [ROBUSTNESS MAY BE AT ODDS WITH ACCURACY](https://openreview.net/pdf?id=SyxAb30cY7)
 
 ## Detection in Image Segmentation
 
